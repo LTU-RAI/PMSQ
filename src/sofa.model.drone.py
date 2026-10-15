@@ -137,6 +137,7 @@ def createScene(rootNode):
 	dronebox.addObject('MechanicalObject', template='Rigid3d')
 	dronebox.addObject('UniformMass', totalMass='1000e-6')
 	dronebox.addObject('LinearSolverConstraintCorrection')
+	dronebox.addObject('FixedConstraint', indices=[0])
 	
 	collision = dronebox.addChild('collision')
 	collision.addObject('MeshOBJLoader', name='loader', filename='mesh/objects/drone_box.obj', rotation=[90, 0, 0], triangulate=True)
