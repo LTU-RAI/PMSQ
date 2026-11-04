@@ -26,7 +26,13 @@ This repository includes the SofaPython3 scene for the dynamic modelling of the 
 ### Experimentally Validated Dynamic FEM-based Modeling of a Pneumatic Morphing Soft Quadrotor
 #### V. Sumathy, F. Labra Caso, P. Ferrentino, J. Haluska, B. Vanderborght and G. Nikolakopoulos
 ```
-... Under Review ...
+@inproceedings{sumathy2026experimentally,
+  title={Experimentally Validated Dynamic FEM-based Modeling of a Pneumatic Morphing Soft Quadrotor},
+  author={V. Sumathy and F. Labra Caso and P. Ferrentino and B. Vanderborght and J. Haluska and G. Nikolakopoulos},
+  booktitle={2026 26th International Conference on Control, Automation and Systems (ICCAS)},
+  year={Accepted 2026},
+  organization={IEEE}
+}
 ```
 
 ## SOFA Scene
