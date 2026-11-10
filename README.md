@@ -5,7 +5,7 @@ This repository includes the SofaPython3 scene for the dynamic modelling of the 
 ## Presentation Video
 
 <p align="center">
-  <a href="https://youtu.be/nwgnn8zPlb0"><img width="844" height="470" alt="image" src="https://github.com/user-attachments/assets/32610297-0601-49a2-8339-3298e0805d3c" /></a>
+  <a href="https://youtu.be/nwgnn8zPlb0"><img width="844" height="470" alt="image" src="https://github.com/user-attachments/assets/c49b0f6e-ff77-489a-a0c7-3215ea64f535" /></a>
 </p>
 
 ## Citation
